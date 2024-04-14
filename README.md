@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minstaar&show_icons=true&theme=vue)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minstar)](https://solved.ac/minstar)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
