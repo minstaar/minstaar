@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minstar)](https://solved.ac/minstar)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={minstar}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=minstar&theme=warm)
