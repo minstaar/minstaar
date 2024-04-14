@@ -14,13 +14,13 @@
   
   ### 💪 Stacks
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstaar&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstaar&layout=compact&theme=vue)
 
   <br>
 
   ### 🔨 Tools
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minstaar&show_icons=true&theme=vue&height=52%)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minstaar&show_icons=true&theme=vue)
 
   <br>
 
