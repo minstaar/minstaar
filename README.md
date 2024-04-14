@@ -6,6 +6,8 @@
 
 <div align="left">
 
+  <br>
+
   #### Major in Computer Science and Engineering / Artificial Intelligence / Philosophy
   #### Interested in Algorithm, Artificial Intelligence Analysis
 
