@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## 🌳 Hi everyone, I'm minseong 🌳
+  ## 🌳 Minseong Park's github 🌳
 
 </div>
 
