@@ -47,6 +47,6 @@
   
   - 2013 Korean Olympiad in Informatics (KOI) Regional Round :  🥈Silver Award
   - 2013 Korean Olympiad in Informatics (KOI) Finals :  🥈Silver Award
-  - Suapc 2022 Winter : Ranked 6th (BIROSO)
+  - Suapc 2022 Winter : Ranked 6th (BIROSO) 🥉
    
 </div>
